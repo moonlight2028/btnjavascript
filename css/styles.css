@@ -1,0 +1,35 @@
+section {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  padding: 100px 0px;
+  background: url("../img/braden-collum-CBcS51cGoSw-unsplash.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color: #fff;
+  font-size: 50px;
+}
+
+p {
+  color: #fff;
+  font-size: 20px;
+}
+
+button {
+  padding: 12px 40px;
+  background: #6413ce;
+  color: floralwhite;
+  margin: 20px;
+  border: 2px solid #cf1488;
+  text-transform: uppercase;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.5s linear;
+}
+button:hover {
+  background: transparent;
+  color: #fff;
+  border-radius: 0%;
+}
